@@ -1,7 +1,7 @@
 name="$0"
 name1="author = lahsen rabid"
 echo "$name1"
-echo "--- github : "
+echo "--- github : https://github.com/lahsen1abid/lahsen/blob/main/calculer.sh"
 echo "--- file name : $0"
 read -p  "\____ Calculer : number1= " num1 
 read -p "\____ Calculer : +-x/= " num
